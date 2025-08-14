@@ -1,16 +1,25 @@
-# class_project
+# Layout-Design-Application
 
-A new Flutter project.
+A Flutter-based application showcasing responsive and modern UI layouts with flexible design patterns for mobile and web platforms.  
+This project demonstrates clean, scalable, and reusable UI structures to help developers design beautiful apps faster.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 📱 **Responsive Design** — Works seamlessly on mobile, tablet, and web.
+- 🎨 **Modern UI** — Built with Flutter’s Material Design components.
+- 🧩 **Reusable Widgets** — Modular layout components for faster development.
+- ⚡ **Smooth Animations** — Delightful transitions for better user experience.
+- 🌗 **Light & Dark Mode Support** — Adaptable to user preferences.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 🛠 Tech Stack
+- **Flutter (Dart)**
+- Material Design Widgets
+- Optional: State management (Provider / Bloc)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📂 Project Structure
+
